@@ -2,10 +2,10 @@
 
 ## Screenshots
 
-![Home Page](./images/home.png)
-![Cart Page](./images/cart.png)
-![Stripe Page](./images/stripe.png)
-![Admin Page](./images/admin.png)
+![Home Page](https://raw.githubusercontent.com/smailbiala/ecommerce-symfony-react/refs/heads/master/images/home.PNG)
+![Cart Page](https://raw.githubusercontent.com/smailbiala/ecommerce-symfony-react/refs/heads/master/images/cart.PNG)
+![Stripe Page](https://raw.githubusercontent.com/smailbiala/ecommerce-symfony-react/refs/heads/master/images/stripe.PNG)
+![Admin Page](https://raw.githubusercontent.com/smailbiala/ecommerce-symfony-react/refs/heads/master/images/admin.PNG)
 
 ## 🛠 Instructions d'installation et d'exécution
 
